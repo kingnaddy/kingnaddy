@@ -2,7 +2,7 @@
 - 👀 I’m interested in building python projects
 - 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on more python projects
-- 📫 How to reach me ...nobleadike@gmail.com
+- 📫 How to reach me - nobleadike@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm studying in the same university as Kamala Harris did
 
