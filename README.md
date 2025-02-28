@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingnaddy
+- 👋 Hi, I’m Noble Adike
 - 👀 I’m interested in building python projects
 - 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on more python projects
