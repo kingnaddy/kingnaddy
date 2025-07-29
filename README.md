@@ -69,6 +69,7 @@ React Native app that matches elderly folks with nearby volunteers using OpenAI 
 🌍 Check out more of what I’m building: [github.com/kingnaddy](https://github.com/kingnaddy)
 
 ---
+![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 🧠 Always learning.  
 💪 Always gaining.  
