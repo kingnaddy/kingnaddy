@@ -1,4 +1,4 @@
-# Hello There, I'm Noble
+# Hello There, I'm Noble! 👑
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh6bGZoaTQ4dzZkaTNlYzdtMTQ2bm1zOWx0dzRocjdocGJkYmZ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" width="230">
 
 Welcome to my Profile! I'm currently a Computer Science major at Howard University, passionate about building tech that drives real-world impact—especially through AI, software engineering, and data systems.
