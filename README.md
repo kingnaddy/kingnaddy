@@ -1,8 +1,42 @@
-# print("Hello World, It's nice to meet you")
+# Hello There, I'm Noble
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh6bGZoaTQ4dzZkaTNlYzdtMTQ2bm1zOWx0dzRocjdocGJkYmZ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" width="230">
 
 🎓 I'm a Computer Science major at Howard University (same school as Kamala Harris 😏), passionate about building tech that drives real-world impact—especially through AI, software engineering, and data systems.
 
 💡 I love experimenting with projects that are both meaningful and fun. Right now, I’m currently learning C++ and Java so I can continue to explore more things. Whether it's coding voice cloning experiments, designing IoT-powered infrastructure, or creating mobile apps that connect communities—I'm all about turning ideas into reality.
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=4479A1)
+![NumPy](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&color=013243)
+![Pandas](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=plotly&color=3399CC)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-informational?style=flat&logo=scikit-learn&color=F7931E)
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl3bTIxdGtuN3ppYmdsNW1lNmE0enR5Z3J0N2MyZDJyZHpycTQwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ryRmdFstjaZ5m/giphy.gif" width="50"> A little more about me...  
+```javascript
+const noble = {
+  pronouns: "he" | "him",
+  education: "Howard University, B.S. Computer Science (Presidential Scholar)",
+  code: ["Python", "JavaScript", "HTML", "CSS"],
+  tools: ["React", "Node.js", "TensorFlow", "Firebase", "AWS", "Git", "SQLite"],
+  libraries: ["NumPy", "Pandas", "Matplotlib", "Scikit-Learn"],
+  interests: ["AI/ML", "IoT", "Blockchain", "Algorithmic Trading", "Product Management"],
+  techCommunities: {
+    fellow: "Break Through Tech AI @ Cornell Tech",
+    liaison: "The AI Collective (70,000+ network)",
+    memberOf: [
+      "NSBE",
+      "IEEE Howard Chapter",
+      "ColorStack",
+      "Howard Robotics Org"
+    ]
+  },
+  challenge: "Currently trying to finish the Neetcode 150",
+  funFact: "I grew up in Lagos, love soccer, and believe tech should build the future we want to live in."
+}
+```
 
 ### 🚀 Featured Projects
 
