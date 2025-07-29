@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Noble Adike
+# print("Hello World, It's nice to meet you")
 
 🎓 I'm a Computer Science major at Howard University (same school as Kamala Harris 😏), passionate about building tech that drives real-world impact—especially through AI, software engineering, and data systems.
 
