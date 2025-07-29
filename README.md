@@ -70,7 +70,7 @@ React Native app that matches elderly folks with nearby volunteers using OpenAI 
 ---
 
 🧠 Always learning.  
-⚽ Always playing football.  
+💪 Always gaining.  
 🎯 Always building for impact.
 
 <!---
