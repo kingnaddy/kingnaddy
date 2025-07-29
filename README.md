@@ -3,7 +3,7 @@
 
 Welcome to my Profile! I'm currently a Computer Science major at Howard University, passionate about building tech that drives real-world impact—especially through AI, software engineering, and data systems.
 
-💡 I love experimenting with projects that are both meaningful and fun. Right now, I’m learning C++ and Java so I can continue to explore more things. Whether it's coding voice cloning experiments, designing IoT-powered infrastructure, or creating mobile apps that connect communities—I'm all about turning ideas into reality. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
+💡 I love experimenting with projects that are both meaningful and fun. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
 ### Things I code with
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
