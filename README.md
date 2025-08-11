@@ -58,7 +58,9 @@ React Native app that matches elderly folks with nearby volunteers using OpenAI 
 👉 [View Project](https://github.com/kingnaddy/CommunityConnect-BisonHacks)
 
 ---
-
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingnaddy)
+---
 ### 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noble_Adike-blue?logo=linkedin)](https://www.linkedin.com/in/noble-adike-2356b2324/)  
