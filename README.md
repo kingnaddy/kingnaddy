@@ -21,7 +21,7 @@ Welcome to my Profile! I'm currently a Computer Science major at Howard Universi
 const noble = {
   pronouns: "he" | "him",
   education: "Howard University, B.S. Computer Science (Presidential Scholar)",
-  code: ["Python", "JavaScript", "HTML", "CSS"],
+  code: ["Python", "JavaScript", "C++", "HTML", "CSS", "SQL"],
   tools: ["React", "Node.js", "TensorFlow", "Firebase", "AWS", "Git", "SQLite"],
   libraries: ["NumPy", "Pandas", "Matplotlib", "Scikit-Learn"],
   interests: ["AI/ML", "IoT", "Blockchain", "Algorithmic Trading", "Product Management"],
