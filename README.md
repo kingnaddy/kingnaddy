@@ -8,6 +8,7 @@ Welcome to my Profile! I'm currently a Computer Science major at Howard Universi
 ### Things I code with
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=4479A1)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&color=013243)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458)
